@@ -1,0 +1,460 @@
+[
+  {
+    "description": "Understand the reasons behind cart abandonment in your web shop.",
+    "survey_name": "Cart Abandonment Survey",
+    "industry": [
+      "eCommerce"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "website",
+      "link"
+    ]
+  },
+  {
+    "description": "Understand the reasons behind site abandonment in your web shop.",
+    "survey_name": "Site Abandonment Survey",
+    "industry": [
+      "productManager"
+    ],
+    "role": "marketing",
+    "channels": [
+      "app",
+      "website"
+    ]
+  },
+  {
+    "description": "Measure PMF by assessing how disappointed users would be if your product disappeared.",
+    "survey_name": "Product Market Fit (Superhuman Method)",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Learn more about who signed up to your product and why.",
+    "survey_name": "Onboarding Segmentation",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Find out why people cancel their subscriptions. These insights are pure gold!.",
+    "survey_name": "Churn Survey",
+    "industry": [
+      "saas",
+      "eCommerce",
+      "other"
+    ],
+    "role": "sales",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "The EAS is a riff off the NPS but asking for actual past behaviour instead of lofty intentions.",
+    "survey_name": "Earned Advocacy Score",
+    "industry": [
+      "saas",
+      "eCommerce",
+      "other"
+    ],
+    "role": "customerSuccess",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Find out why people stopped their trial. These insights help you improve your funnel.",
+    "survey_name": "Improve Trial Conversion",
+    "industry": [
+      "saas"
+    ],
+    "role": "sales",
+    "channels": [
+      "link",
+      "app"
+    ]
+  },
+  {
+    "description": "Invite a specific subset of your users to schedule an interview with your product team.",
+    "survey_name": "Review Prompt",
+    "industry": [
+      "saas",
+      "eCommerce",
+      "other"
+    ],
+    "role": "marketing",
+    "channels": [
+      "link",
+      "app"
+    ]
+  },
+  {
+    "description": "Invite a specific subset of your users to schedule an interview with your product team.",
+    "survey_name": "Interview Prompt",
+    "industry": [
+      "saas"
+    ],
+    "role": "peopleManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Identify weaknesses in your onboarding flow to increase user activation.",
+    "survey_name": "Improve Activation Rate",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "link"
+    ]
+  },
+  {
+    "description": "Find out what users like and don't like about your product or offering.",
+    "survey_name": "Uncover Strengths and Weaknesses",
+    "industry": [
+      "saas",
+      "other"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Measure PMF by assessing how disappointed users would be if your product disappeared.",
+    "survey_name": "Product Market Fit (Short Version)",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Learn how users first heard about your product.",
+    "survey_name": "Market Attribution",
+    "industry": [
+      "saas",
+      "eCommerce"
+    ],
+    "role": "marketing",
+    "channels": [
+      "website",
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Find out what goes through peoples minds when changing their subscriptions.",
+    "survey_name": "Changing Subscription Experience",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Better understand if your messaging creates the right expectations of the value your product provides.",
+    "survey_name": "Identify Customer Goals",
+    "industry": [
+      "saas",
+      "other"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "website"
+    ]
+  },
+  {
+    "description": "Follow up with users who just used a specific feature.",
+    "survey_name": "Feature Chaser",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Follow up with users who ran into one of your Fake Door experiments.",
+    "survey_name": "Fake Door Follow-Up",
+    "industry": [
+      "saas",
+      "eCommerce"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "website"
+    ]
+  },
+  {
+    "description": "Give your users the chance to seamlessly share what's on their minds.",
+    "survey_name": "Feedback Box",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Evaluate how easily users can add integrations to your product. Find blind spots",
+    "survey_name": "Integration Setup Survey",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Find out which integrations your users would like to see next.",
+    "survey_name": "New Integration Survey",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Measure how clear each page of your developer documentation is.",
+    "survey_name": "Docs Feedback",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "website",
+      "link"
+    ]
+  },
+  {
+    "description": "Implement proven best practices to understand WHY people buy.",
+    "survey_name": "NPS Survey",
+    "industry": [
+      "saas",
+      "eCommerce",
+      "other"
+    ],
+    "role": "customerSuccess",
+    "channels": [
+      "app",
+      "link",
+      "website"
+    ]
+  },
+  {
+    "description": "Measure the Customer Satisfaction Score of your product or service.",
+    "survey_name": "Customer Satisfaction Score",
+    "industry": [
+      "saas",
+      "eCommerce",
+      "other"
+    ],
+    "role": "customerSuccess",
+    "channels": [
+      "app",
+      "link",
+      "website"
+    ]
+  },
+  {
+    "description": "Gather comprehensive feedback on your product or service.",
+    "survey_name": "Collect Feedback",
+    "industry": [
+      "other",
+      "eCommerce"
+    ],
+    "role": "productManager",
+    "channels": [
+      "website",
+      "link"
+    ]
+  },
+  {
+    "description": "Find out how much time your product saves your user. Use it to upsell.",
+    "survey_name": "Identify Upsell Opportunities",
+    "industry": [
+      "saas"
+    ],
+    "role": "sales",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Identify features your users need most and least.",
+    "survey_name": "Prioritize Features",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Evaluate the satisfaction of specific features of your product.",
+    "survey_name": "Gauge Feature Satisfaction",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Identify users dropping off your marketing site. Improve your messaging.",
+    "survey_name": "Market Site Clarity",
+    "industry": [
+      "saas",
+      "eCommerce",
+      "other"
+    ],
+    "role": "marketing",
+    "channels": [
+      "website"
+    ]
+  },
+  {
+    "description": "Determine how easy it is to use a feature.",
+    "survey_name": "Customer Effort Score",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app"
+    ]
+  },
+  {
+    "description": "Let customers rate the checkout experience to tweak conversion.",
+    "survey_name": "Rate Checkout Experience",
+    "industry": [
+      "eCommerce"
+    ],
+    "role": "productManager",
+    "channels": [
+      "website",
+      "app"
+    ]
+  },
+  {
+    "description": "Measure how relevant your search results are.",
+    "survey_name": "Measure Search Experience",
+    "industry": [
+      "saas",
+      "eCommerce"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "website"
+    ]
+  },
+  {
+    "description": "Measure if your content marketing pieces hit right.",
+    "survey_name": "Evaluate Content Quality",
+    "industry": [
+      "other"
+    ],
+    "role": "marketing",
+    "channels": [
+      "website"
+    ]
+  },
+  {
+    "description": "See if people get their 'Job To Be Done' done. Successful people are better customers.",
+    "survey_name": "Measure Task Accomplishment",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "website"
+    ]
+  },
+  {
+    "description": "Offer a discount to gather insights about sign up barriers.",
+    "survey_name": "Identify Sign-Up Barriers",
+    "industry": [
+      "saas",
+      "eCommerce",
+      "other"
+    ],
+    "role": "marketing",
+    "channels": [
+      "website"
+    ]
+  },
+  {
+    "description": "Identify the ONE thing your users want the most and build it.",
+    "survey_name": "Build Product Roadmap",
+    "industry": [
+      "saas"
+    ],
+    "role": "productManager",
+    "channels": [
+      "app",
+      "link"
+    ]
+  },
+  {
+    "description": "Find out how close your visitors are to buy or subscribe.",
+    "survey_name": "Understand Purchase Intention",
+    "industry": [
+      "eCommerce"
+    ],
+    "role": "sales",
+    "channels": [
+      "website",
+      "link",
+      "app"
+    ]
+  },
+  {
+    "description": "Find out how your subscribers like your newsletter content.",
+    "survey_name": "Improve Newsletter Content",
+    "industry": [
+      "eCommerce",
+      "saas",
+      "other"
+    ],
+    "role": "marketing",
+    "channels": [
+      "link"
+    ]
+  }
+]
